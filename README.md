@@ -1,5 +1,6 @@
 A simple and interactive calculator built using HTML, CSS, and JavaScript.
 This application performs basic arithmetic operations and provides a responsive user interface.
+
 Features:
 
 
